@@ -1,2 +1,2 @@
-# Make it big
-Ett template för uppgiften make it big!
+# Sun vs Moon
+Ett template för uppgiften Sun vs Moon!

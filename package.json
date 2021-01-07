@@ -34,7 +34,7 @@
     "testPathIgnorePatterns": [],
     "haste": {
       "providesModuleNodeModules": [
-        "h5tests/make-it-big"
+        "h5tests/sun-vs-moon"
       ]
     }
   }
